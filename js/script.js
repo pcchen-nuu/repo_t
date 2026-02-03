@@ -4,4 +4,6 @@
 
 document.addEventListener("DOMContentLoaded", function () {
     // 在這裡完成程式碼
+    const button = document.querySelector("button");
+    const message = document.getElementById("message");
 });
