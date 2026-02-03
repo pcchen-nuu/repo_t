@@ -3,6 +3,7 @@ body {
   margin: 0;
   font-family: Arial, sans-serif;
   background-color: #f8f9fa;
+  newline-height: 1.6;
 }
 
 /* TODO 4: 設定 h1 的文字顏色與置中 */
