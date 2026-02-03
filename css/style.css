@@ -1,6 +1,8 @@
 /* TODO 3: 設定整個頁面的背景顏色 */
 body {
-    font-family: Arial, sans-serif;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
 }
 
 /* TODO 4: 設定 h1 的文字顏色與置中 */
