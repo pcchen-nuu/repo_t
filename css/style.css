@@ -5,8 +5,11 @@ body {
 
 /* TODO 4: 設定 h1 的文字顏色與置中 */
 h1 {
+    color:blue
 }
 
 /* TODO 5: 設定 #message 的字體大小與顏色 */
 #message {
+    font-size: 20px;
+    color: green;
 }
